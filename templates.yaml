@@ -1,0 +1,5 @@
+launch: Welcome to The Awesome Weather Skill. Which City would like to know the weather for?
+
+weather: The weather in {{ city }} is {{ temperature }} degrees. What city do you want to know the weather for next?
+
+weather_city_difference: The weather in {{ city }} is {{ temperature }} degrees. The difference with the {{ previous_city }} is {{ difference }}. What city do you want to know the weather for next?
